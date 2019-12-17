@@ -14,7 +14,7 @@
 		<java.version>1.8</java.version>
 	</properties>
 
-	<name>1m5-bitcoin</name>
+	<name>1m5-bisq</name>
 	<url>https://1m5.io</url>
 	<description>Invisible Matrix Services - Bisq Service Library</description>
 	<inceptionYear>2019</inceptionYear>
